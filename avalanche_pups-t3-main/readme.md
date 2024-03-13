@@ -3,9 +3,6 @@
 ## Introduction
 Avalanche Pups is a cutting-edge platform designed to cater to the unique needs of avalanche dog owners. Our platform leverages advanced technologies, including Redis caching and PostgreSQL persistence, to provide users with a seamless and efficient experience.
 
-[Video Presentation](https://drive.google.com/file/d/1J3QwQTS_ZvVM8uMOzRGO0vSglc9uSJnv/view?usp=sharing)
-
-![Avalanche Pups](https://github.com/TerranKartikTellus/Machine-Learning/blob/main/Intro%20to%20ML/avalanche/public/img/logo1.jpg "Avalanche Pups")
 
 ## Redis Caching for Improved Performance
 Redis serves as the backbone of our caching system, enhancing the performance and responsiveness of the Avalanche Pups platform. Here's how Redis caching benefits our users:
@@ -27,16 +24,6 @@ In addition to Redis caching, Avalanche Pups relies on PostgreSQL for persistent
 
 ## Conclusion
 By leveraging Redis caching and PostgreSQL persistence, Avalanche Pups delivers a superior user experience characterized by fast response times, efficient resource utilization, and robust data integrity
-
-![Select Harness with Correct Boot size and harness size in cm]( https://github.com/TerranKartikTellus/Machine-Learning/blob/main/Intro%20to%20ML/avalanche/public/img/perfect1.PNG "Correct Boot size and harness size pair")
-
-![Select Harness with Correct Boot size and harness size in cm]( https://github.com/TerranKartikTellus/Machine-Learning/blob/main/Intro%20to%20ML/avalanche/public/img/perfect2.PNG "Correct Boot size and harness size pair")
-
-![Select Harness with Correct Boot size and harness size in cm]( https://github.com/TerranKartikTellus/Machine-Learning/blob/main/Intro%20to%20ML/avalanche/public/img/perfect3.PNG "Correct Boot size and harness size pair")
-
-![Select Harness with Correct Boot size and harness size in cm]( https://github.com/TerranKartikTellus/Machine-Learning/blob/main/Intro%20to%20ML/avalanche/public/img/suggest.PNG "Correct Boot size and harness size pair")
-
-![Select Harness with Correct Boot size and harness size in cm]( https://github.com/TerranKartikTellus/Machine-Learning/blob/main/Intro%20to%20ML/avalanche/public/img/backend.PNG "Correct Boot size and harness size pair")
 
 
 
